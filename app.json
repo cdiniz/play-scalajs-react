@@ -1,0 +1,6 @@
+{
+  "name": "Play scalajs react",
+  "description": "Simple example application showing how to use react and diode using scalajs with a play server.",
+  "website": "https://github.com/cdiniz/play-scalajs-react",
+  "success_url": "/"
+}
